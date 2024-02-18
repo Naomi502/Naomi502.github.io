@@ -102,13 +102,12 @@ td
 .xl70
 	{mso-style-parent:style0;
 	color:black;
-	font-size:7.0pt;
-	text-align:center;
+	font-size:10.0pt;
 	border-top:none;
 	border-right:.5pt solid black;
 	border-bottom:.5pt solid black;
-	border-left:none;
-	background:white;
+	border-left:.5pt solid black;
+	background:#33BB00;
 	mso-pattern:black none;
 	white-space:normal;}
 .xl71
@@ -119,62 +118,10 @@ td
 	border-right:.5pt solid black;
 	border-bottom:.5pt solid black;
 	border-left:.5pt solid black;
-	background:#33BB00;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl72
-	{mso-style-parent:style0;
-	color:black;
-	font-size:10.0pt;
-	border-top:none;
-	border-right:.5pt solid black;
-	border-bottom:.5pt solid black;
-	border-left:.5pt solid black;
 	background:pink;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl73
-	{mso-style-parent:style0;
-	color:black;
-	font-size:10.0pt;
-	font-weight:700;
-	text-align:center;
-	white-space:normal;}
-.xl74
-	{mso-style-parent:style0;
-	color:black;
-	font-size:10.0pt;
-	text-align:center;
-	white-space:normal;}
-.xl75
-	{mso-style-parent:style0;
-	color:black;
-	text-align:center;
-	white-space:normal;}
-.xl76
-	{mso-style-parent:style0;
-	color:black;
-	font-size:22.0pt;
-	font-weight:700;
-	text-align:center;
-	white-space:normal;}
-.xl77
-	{mso-style-parent:style0;
-	color:black;
-	font-size:15.0pt;
-	font-weight:700;
-	text-align:center;
-	white-space:normal;}
-.xl78
-	{mso-style-parent:style0;
-	color:black;
-	font-size:10.0pt;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid black;
-	border-left:none;
-	white-space:normal;}
-.xl79
+.xl72
 	{mso-style-parent:style0;
 	color:black;
 	font-size:7.0pt;
@@ -186,7 +133,7 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl80
+.xl73
 	{mso-style-parent:style0;
 	color:black;
 	font-size:7.0pt;
@@ -198,7 +145,7 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl81
+.xl74
 	{mso-style-parent:style0;
 	color:black;
 	font-size:7.0pt;
@@ -207,6 +154,18 @@ td
 	border-right:.5pt solid black;
 	border-bottom:.5pt solid black;
 	border-left:.5pt solid black;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl75
+	{mso-style-parent:style0;
+	color:black;
+	font-size:7.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
