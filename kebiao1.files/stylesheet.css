@@ -138,9 +138,9 @@ td
 	color:black;
 	font-size:7.0pt;
 	text-align:center;
-	border-top:.5pt solid black;
+	border-top:none;
 	border-right:.5pt solid black;
-	border-bottom:none;
+	border-bottom:.5pt solid black;
 	border-left:.5pt solid black;
 	background:white;
 	mso-pattern:black none;
@@ -150,22 +150,10 @@ td
 	color:black;
 	font-size:7.0pt;
 	text-align:center;
-	border-top:none;
+	border-top:.5pt solid black;
 	border-right:.5pt solid black;
-	border-bottom:.5pt solid black;
+	border-bottom:none;
 	border-left:.5pt solid black;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl75
-	{mso-style-parent:style0;
-	color:black;
-	font-size:7.0pt;
-	text-align:center;
-	border-top:none;
-	border-right:.5pt solid black;
-	border-bottom:.5pt solid black;
-	border-left:none;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
